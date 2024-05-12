@@ -9,6 +9,10 @@
     "build": "vite build"
   },
   "dependencies": {
-    "vite": "^5.2.11"
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "vite": "^5.2.11",
+    "sass": "^1.77.1"
   }
 }
