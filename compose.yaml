@@ -1,3 +1,8 @@
 services:
   api:
     build: api
+  
+  client:
+    build: client
+    ports:
+      - "8080:80"
