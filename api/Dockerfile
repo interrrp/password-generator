@@ -7,4 +7,4 @@ COPY . .
 RUN go build -ldflags "-s -w" -o api .
 
 CMD [ "./api" ]
-EXPOSE 80
+EXPOSE 8080

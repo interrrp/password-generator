@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	addr = ":80"
+	addr = ":8080"
 
 	chars      = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
 	defaultLen = 16
